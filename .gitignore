@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+.kotlin/
+
+# 本地配置文件（含 SDK 路径）
+local.properties
+
+# 构建产物
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# 部署产物
+dist/
+
+# 临时脚本
+login*.exp
